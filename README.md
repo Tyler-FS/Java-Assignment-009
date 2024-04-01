@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+Answers are not correct after 15 because factorials become very large very fast and end up exceeding the limits of values that can be stored by regular integers. 
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,8 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+* Yes it is correct up to 30. 
+* There is no upper limit to the value that can be stored in a BigInteger so long as there is adequate memory and processing speed. 
 ```
 
 ## Submission
